@@ -2,6 +2,6 @@
   "name": "MrNode",
   "website": "",
   "description": "Nodeoperator",
-  "logo": "https://freeimage.host/i/J1xRSJn",
+  "logo": "https://iili.io/J1xRSJn.png",
   "twitter": "https://twitter.com/sgckng0"
 }
